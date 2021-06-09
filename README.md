@@ -1,11 +1,5 @@
-# Interactive apps from Jupyter Notebooks
+# Co-op startup cost estimation
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/appmode/master?urlpath=apps%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aaronbeekay/coop-startup-cost/HEAD?filepath=%2Fapps%2Findex.ipynb)
 
-This repository demonstrates how to create interactive webapps from a Jupyter Notebook.
-This is similar to how Shiny apps work in R.
-
-Using the `appmode` Jupyter plugin, a notebook's code will be run, and then only the markdown cells and
-code outputs will be shown.
-
-You can check out the `appmode` repository here: https://github.com/oschuett/appmode
+This repo is a quick startup cost visualizer built to be run on a JupyterLab server.
